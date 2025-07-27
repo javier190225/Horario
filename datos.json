@@ -28,5 +28,6 @@
   { "concurso": "Medioambiente", "tipo": "Etapa Nacional", "fecha": "2025-10-24" },
   { "concurso": "Medioambiente", "tipo": "Salida de campo", "fecha": "2025-09-02" },
   { "concurso": "FENECIT", "tipo": "Etapa Internacional", "fecha_inicio": "2025-11-18", "fecha_fin": "2025-11-23" },
-  { "concurso": "CIENTEC", "tipo": "Etapa Nacional", "fecha_inicio": "2025-11-24", "fecha_fin": "2025-11-28" }
+  { "concurso": "CIENTEC", "tipo": "Etapa Nacional", "fecha_inicio": "2025-11-24", "fecha_fin": "2025-11-28" }, 
+  {"concurso": "CREA 3.0", "tipo": "Etapa Nacional", "fecha": "2025-11-07"}
 ]
