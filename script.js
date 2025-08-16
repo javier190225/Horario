@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "Etapa Nacional": "#8A2BE2",
         "Parcial": "#FF6347" ,
         "Etapa Internacional": "#000000",
+        "Etapa Mundial": "#FF0000",
         "Final": "#FF69B4"
       };
 
